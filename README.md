@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-✌️rontend developer specializing in HTML and CSS. Currently building desktop-only websites, with experience in fashion and interior design projects. Open to expanding into various topics and constantly learning new web development techniques. Interested in creating visually appealing and functional websites. Always open to collaborations and feedback!"<br><br>🧑‍💻
+✌️frontend developer specializing in HTML and CSS. Currently building desktop-only websites, with experience in fashion and interior design projects. Open to expanding into various topics and constantly learning new web development techniques. Interested in creating visually appealing and functional websites. Always open to collaborations and feedback!"<br><br>🧑‍💻
 
 
 ## 🌐 Socials:
